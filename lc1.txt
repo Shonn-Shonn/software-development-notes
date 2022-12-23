@@ -1,0 +1,48 @@
+Types of software 
+
+generic ->market research (can download from google play store)
+custom -> client needs(like student management system)
+embedded -> client/hardware needs
+
+
+What is embedded software?
+a piece of software that is embedded in hardware 
+
+
+
+technical systems (do not include knowledge of work procedures and processes.)
+socio-technical system(include knowledge of work procedures and processes.)
+
+Type of software development projects
+
+
+green field projects -> new development
+You may have to start from scartch
+
+Evolutionary projects -> maintenance
+Given an existing system 
+.corrective - fix defects
+.adaptive - adapt to new technology 
+.enhancement - add new features
+.perfective - make more maintainable
+
+Framework / components projects
+a software system designed specifically to be reused in different projects
+
+
+Software development life-cycle(SDLC)
+-Definition(what)
+-Design(how)
+-Development(build)
+-Operation(use)
+
+
+Stakeholder -> clients/users/software engineers
+
+
+first steps
+
+-> scope (what you have to do and what you don't have to do, you have
+to define exactly what the requirements are)
+-> objectives (what you want to achieve in your projects)
+-> constraints (in terms of budgets and time)
