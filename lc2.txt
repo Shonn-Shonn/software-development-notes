@@ -1,0 +1,26 @@
+HAHA..so far, I reached here
+I need not fear of faling again..
+
+Let's try to understand those parts
+Project Risks
+->Anything that can go wrong(endanger project success)
+
+Types of Risks
+.technology
+.organization
+.requirements
+.people
+.tools
+
+
+Dealing with Risks
+.avoid(replan or change requirements)
+.confine(restrict the scope of its effect)
+.mitigate(devise tests to see if it occurs)
+.monitor(constantly be on the lookout of it)
+
+
+Risk Analysis
+-Likelihood(the chance that is going to happen)
+Apply 80:20 rule
+-> 80% of all projects risks is accounted by 20% of identified risks
