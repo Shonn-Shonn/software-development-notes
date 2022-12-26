@@ -1,0 +1,22 @@
+Project organization
+The project organization specifies that roles and responsibilities,number of staff 
+in each role, teams
+.To increase the likelihood of project success,one project member should have experience
+with a similar system
+
+
+Project Tasks and activities
+The tasks and activities specify the work that needs to be done.
+task->a well define work assignment for a role
+activity->a group of related tasks
+
+
+Plan driven
+Tasks,activities and their schedule are planned in detail at the start of the project
+
+Agile driven
+Tasks,activities and their schedule are incrementally planned with most details provided as the project processes.
+
+
+Which approach to use is highly project dependent.
+Some combination is often most appropriate.

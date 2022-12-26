@@ -1,0 +1,5 @@
+Open Source -> social coding
+contribute -> make improvement
+Git -> have branching
+Fork -> make a copy of the project
+Branches are taking a copy of the code base
