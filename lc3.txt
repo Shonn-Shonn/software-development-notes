@@ -20,3 +20,64 @@ Tasks,activities and their schedule are incrementally planned with most details 
 
 Which approach to use is highly project dependent.
 Some combination is often most appropriate.
+
+Project Schedule
+The project schedule specifies:
+-task ordering -> dependencies(sequential,parallel)
+-time estimates for each task -> start time, likely duration
+-resource assignment -> people,hardware,software
+-milestones -> important management decision points;
+-deliverable- -> specifications,documents,code,etc.
+
+
+Often three levels of schedule are maintained:
+-master schedule: for management,client communication -> rigid
+-macro schedule: for day-to-day project management -> semi-rigid
+(Macro-planning is all about the bigger picture and the long-term vision.)
+-micro schedule: fro team management -> highly flexible
+(Micro is a surefire way to get bogged down in unnecessary details—meaning you might never achieve your end goal)
+Charts and graphs are commonly used to manage schedules.
+
+
+Estimates
+Estimating is trying to quantify something before it occurs.
+
+The project plan may provide estimates of 
+-size(lines of code (loc),number of subsystems,number of classes,etc)
+-effort(person x duration)
+-productivity(size/effort)
+-duration(months until delivery)
+-development cost(labour)
+
+.Estimating is based on:
+-experience -historical data -models -courage!
+
+
+Estimating carries inherent risk.
+(Which we try to minimize as much as possible)
+
+
+
+
+The risk associated with estimating is reduced:if we;
+-establish project scope in advance
+-use historical data from past projects.
+-divide and conquer
+-break into small parts,estimate and sum.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -3,15 +3,19 @@ Types of software
 generic ->market research (can download from google play store)
 custom -> client needs(like student management system)
 embedded -> client/hardware needs
+...a combination of computer hardware and software designed for a specific function. 
+(example -> Traffic control systems found in traffic lights)
+system software -> operating system
 
 
 What is embedded software?
 a piece of software that is embedded in hardware 
 
 
-
 technical systems (do not include knowledge of work procedures and processes.)
 socio-technical system(include knowledge of work procedures and processes.)
+What is a socio-technical system example?
+Examples of STSs include emails, blogs, and social media sites such as Facebook and Twitter
 
 Type of software development projects
 
