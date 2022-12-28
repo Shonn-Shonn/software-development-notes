@@ -1,0 +1,8 @@
+The nature of software
+->Largely intangible(မမြင်နိုင်)
+->easy to mass-produce(အမြောက်အများထုတ်)
+->development is labour intensive(ဒီဇိုင်းနှင့် ပရိုဂရမ်ရေးဆွဲခြင်းလုပ်ငန်းစဉ်ကို အလိုအလျောက်လုပ်ဆောင်ရန် ခက်ခဲ)
+->Easy to physically create and modify by anyone
+->Does not wear out with use(အသုံးမတည့်)
+
+introduction to software development(done)
