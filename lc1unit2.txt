@@ -1,0 +1,16 @@
+Software Development Processes Stages
+
+
+Most Software Development Processes share the following stages::
+-gathering the system requirements
+-analyzing and designing the system
+-implementing the system
+-testing teh system 
+
+
+Waterfall Processes
+Code and fix Processes 
+Prototyping process 
+Spiral Process 
+Phased-release Process 
+
